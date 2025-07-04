@@ -1,4 +1,4 @@
-## soyedotcom ⌨️🖱
+## soyedotcom ⌨👩‍💻
 **`computer engineering undergrad and digital polymath`**
 
 <!--
