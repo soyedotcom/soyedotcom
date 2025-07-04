@@ -1,4 +1,5 @@
-## Hi there 👋
+## soyedotcom ⌨️🖱
+**`computer engineering undergrad and digital polymath`**
 
 <!--
 **soyedotcom/soyedotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
